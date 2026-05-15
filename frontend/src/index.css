@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f0f2f5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input::placeholder {
+  color: #aab0b8;
+}
